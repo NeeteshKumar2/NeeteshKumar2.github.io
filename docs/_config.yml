@@ -6,3 +6,9 @@ theme: minima
 nav:
   - title: "Home"
     url: /Home
+  - title: "Fundamental"
+    url: /FundamentalOfLearning
+  - title: "Azure Pipeline"
+    url: /CI-CD-Azure
+  - title: "ARM-Interview"
+    url: /ARM-Interview
