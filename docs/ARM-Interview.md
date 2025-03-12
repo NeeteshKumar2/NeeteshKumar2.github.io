@@ -1,4 +1,4 @@
-# What are ARM Templates?
+# ARM Templates
 
 ARM templates (Azure Resource Manager templates) are JSON files used to define and deploy Azure resources in a declarative manner. They describe the desired state of resources and their dependencies, allowing you to automate the deployment and management of your Azure infrastructure.
 

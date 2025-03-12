@@ -6,5 +6,3 @@ theme: minima
 nav:
   - title: "Home"
     url: /Home
-  - title: "index"
-    url: /index
