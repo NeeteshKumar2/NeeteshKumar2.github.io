@@ -1,5 +1,3 @@
-# Learning Azure DevOps
-
 ## 1. Fundamentals of Azure DevOps
 - **Overview of Azure DevOps**: Purpose and use cases
 - **Features of Azure DevOps**: Boards, Repos, Pipelines, Test Plans, and Artifacts
