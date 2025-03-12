@@ -1,0 +1,10 @@
+title: My GitHub Pages Site
+description: A site showcasing multiple Markdown files
+theme: minima
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /Home
+  - title: "index"
+    url: /index
